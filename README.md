@@ -82,6 +82,37 @@ That's it! You can now run your own evolution simulations.
     - A **higher mutation rate** introduces more randomness. This can help escape a "local maximum" but may also slow down the final steps of perfection.
 3. **Start Evolution**: Click the "Start Evolution" button and watch the process unfold.
 
+## 📊 Example Export
+
+Here is a sample export from a successful run of ImperfectaForge:
+
+```txt
+🧬 ImperfectaForge - Evolution Export
+-------------------------------------
+Date: Sat, 15 Nov 2025 13:22:20 GMT
+
+Target (Perfection):
+Out of simplicity, complexity is born.
+
+Evolved (from Imperfection):
+Out of simplicity, complexity is born.
+
+Stats:
+Generation: 388
+Fitness: 38 / 38
+Mutation Rate: 1%
+Population Size: 100
+Character Set: alphanumeric
+Speed: 60 gen/s
+
+Fitness History (last 200 generations):
+32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 38
+```
+
+## 🤝 Contributing
+
+Contributions, bug reports, and feature requests are welcome! Feel free to fork the repository and submit pull requests.
+
 ## 📜 License
 
 This project is open-source and available under the MIT License.
