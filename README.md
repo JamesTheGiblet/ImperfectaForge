@@ -2,12 +2,12 @@
 
 # 🧬 ImperfectaForge
 
-**Perfection from Imperfection**
+## Perfection from Imperfection
 
 [![Language: HTML](https://img.shields.io/badge/Language-HTML-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Language: CSS](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Language: JS](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tech: Vanilla JS](https://img.shields.io/badge/Tech-Vanilla_JS-yellowgreen?style=for-the-badge)](#)
+[![Tech: Vanilla JS](https://img.shields.io/badge/Tech-Vanilla_JS-yellowgreen?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/Vanilla_JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 A simple, interactive, and dependency-free web-based simulation of a genetic algorithm. Watch as a target phrase is evolved from a parent of pure random nonsense.
@@ -16,12 +16,12 @@ A simple, interactive, and dependency-free web-based simulation of a genetic alg
 
 ---
 
-### [➡️ View Live Demo](https://your-github-username.github.io/ImperfectaForge/ImperfectaForge.html) ⬅️
+## [➡️ View Live Demo](https://JamesTheGiblet.github.io/ImperfectaForge/ImperfectaForge.html) ⬅️ *(If published with GitHub Pages)*
 
-*(Replace with your actual GitHub Pages link)*
+Repository: [https://github.com/JamesTheGiblet/ImperfectaForge.git](https://github.com/JamesTheGiblet/ImperfectaForge.git)
 
-![ImperfectaForge Screenshot](https://user-images.githubusercontent.com/your-user-id/your-image-id.png)
-*(Replace with a screenshot or GIF of the application in action)*
+![ImperfectaForge Screenshot](https://github.com/JamesTheGiblet/ImperfectaForge/raw/main/screenshot.png)
+*(Replace with a screenshot or GIF of the application in action, e.g., screenshot.png in your repo)*
 
 ---
 
@@ -67,7 +67,7 @@ The simulation follows a classic and simple genetic algorithm model:
 Since this is a self-contained HTML file, getting started is incredibly simple.
 
 1. **Download the File**:
-    - Clone this repository: `git clone https://github.com/your-github-username/ImperfectaForge.git`
+    - Clone this repository: `git clone https://github.com/JamesTheGiblet/ImperfectaForge.git`
     - OR, simply download the `ImperfectaForge.html` file.
 2. **Open in Browser**:
     - Open the `ImperfectaForge.html` file directly in your favorite web browser (like Chrome, Firefox, or Edge).
